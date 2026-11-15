@@ -1,6 +1,6 @@
 # JASPay – Privacy Policy
 
-**Effective date:** [Insert publication date]  
+**Effective date:** Nov 15, 2026  
 **Application:** JASPay  
 **Developer:** JAS Technologies India
 
