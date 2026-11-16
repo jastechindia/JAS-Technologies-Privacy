@@ -55,7 +55,7 @@ JASPay does not operate its own server for processing scanned QR information.
 
 JASPay does not operate a developer-managed backend server. The UPI configuration, payment and collection information, and business profile stored by JASPay are maintained locally on the device and are not uploaded by JASPay to a JASPay-operated server.
 
-JASPay uses Google's Code Scanner dependency for QR scanning. Google Play services may process technical or diagnostic information in connection with that functionality, subject to Google's applicable privacy disclosures.
+JASPay uses Google's Code Scanner dependency for QR scanning. Google Play services and the Google Code Scanner SDK may collect and transmit certain technical information, such as device and application information, performance metrics, and diagnostic events, to Google for purposes including service operation, reliability, and performance monitoring. JASPay does not transmit scanned UPI QR contents, payment records, or configured UPI IDs to a JASPay-operated server.
 
 Users may choose to share generated payment QR images and associated payment request information through Android's system sharing interface. The information is then shared with the application or service selected by the user. The receiving application or service may handle that information according to its own privacy policy.
 
